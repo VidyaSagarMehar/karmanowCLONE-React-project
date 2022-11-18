@@ -2,3 +2,5 @@ static/
 *.json
 *.png
 *.txt
+
+!robots.txt
