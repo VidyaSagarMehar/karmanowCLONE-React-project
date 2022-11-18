@@ -27,9 +27,11 @@ This project is build on React and Bootstrap - The website is static as of now a
 REACT, HTML, CSS, BOOTSTRAP
 
 ## Demo | Netlify
+[LIVE LINK](https://karmaclone.netlify.app/)
 
 
 ## Screenshots
+![](karmaclone.netlify.app_.png)
 
 
 
